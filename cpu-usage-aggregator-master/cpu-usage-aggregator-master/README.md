@@ -6,7 +6,7 @@ This project aggregates CPU usage data for users on a Unix-like system and sends
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Shra1V32/cpu-usage-aggregator.git
+    git clone https://github.com/Akhil-022/cpu-usage-aggregator.git
     cd cpu-usage-aggregator
     ```
 
