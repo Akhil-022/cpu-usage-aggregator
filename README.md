@@ -3,7 +3,7 @@ This project aggregates CPU usage data for users on a Unix-like system and sends
 Installation
 Clone the repository:
 
-git clone https://github.com/Shra1V32/cpu-usage-aggregator.git
+git clone https://github.com/Akhil-022/cpu-usage-aggregator.git
 cd cpu-usage-aggregator
 Install the required dependencies:
 
